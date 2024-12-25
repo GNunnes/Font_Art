@@ -5,4 +5,5 @@
 - colorama
 
 2. Resultado:
- 
+
+<img src = "font.jpg">
